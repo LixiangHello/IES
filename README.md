@@ -1,5 +1,6 @@
 # ImageEmbeddingStem
-image embedding stem
+This is the implemention of Image Embedding Stem.(IES)
 
+We will release our code and models soon~✌️
 
-We will release our code and model soon~✌️
+Wating ...
